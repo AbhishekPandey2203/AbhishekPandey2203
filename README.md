@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Pandey</h1>
-<h3 align="center">A 3rd Year B.TECH student in INFORMATION TECHNOLOGY from AKTU, India. Passionate web development enthusiast dedicated to creating innovative web applications by blending technical expertise with creative flair. Continuously exploring emerging technologies to sharpen coding skills and drive innovation. Passionate about solving new problem that enchance my knowledge.</h3>
+<h3 align="center">A Final Year B.TECH student in INFORMATION TECHNOLOGY from AKTU, India. Passionate web development enthusiast dedicated to creating innovative web applications by blending technical expertise with creative flair. Continuously exploring emerging technologies to sharpen coding skills and drive innovation. Passionate about solving new problem that enchance my knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekpandey2203&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekpandey2203" /> </p>
 
