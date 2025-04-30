@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SDET Intern at Bidinn**
 
-- 🌱 I’m currently learning **Reactjs,JavaScript**
+- 🌱 I’m currently learning **Reactjs,JavaScript,Java Selenium**
 
 - 📫 How to reach me **skycodervad@gmail.com**
 
